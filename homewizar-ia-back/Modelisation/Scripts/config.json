@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Chaise_1.glb",
+    "created": "2022-09-04T14:37:54.772437Z",
+    "company": 1
+  },
+  {
+    "id": 2,
+    "name": "Chaise_2.glb",
+    "created": "2022-09-04T14:39:01.419632Z",
+    "company": 1
+  },
+  {
+    "id": 3,
+    "name": "Canape_1.glb",
+    "created": "2022-09-04T14:51:17.438799Z",
+    "company": 1
+  },
+  {
+    "id": 4,
+    "name": "Canape_2.glb",
+    "created": "2022-09-04T14:51:49.061770Z",
+    "company": 1
+  },
+  {
+    "id": 5,
+    "name": "Fauteuil_1.glb",
+    "created": "2022-09-04T14:52:39.755295Z",
+    "company": 1
+  },
+  {
+    "id": 6,
+    "name": "Fauteuil_2.glb",
+    "created": "2022-09-04T14:53:12.510275Z",
+    "company": 1
+  }
+]

@@ -1,0 +1,31 @@
+{
+    "Dataset": {
+        "Path": "Dataset/scrapping.py",
+        "IKEA_Scrapping_Root": "",
+        "Save_path": [
+            "Dataset/Cuneli/",
+            "Dataset/Cuneli/"
+        ],
+        "Categories_path": "Dataset/Categories.json"
+    },
+    "IA_Categorisation": {
+        "Path": "IA_Categorisation/categorisation.py",
+        "Save_path": "IA_Categorisation/IA_Save",
+        "Selected_save": "none",
+        "Best_save": "none"
+    },
+    "IA_Dimensions": {
+        "Path": "IA_Dimensions/dimension.py",
+        "Save_path": "IA_Dimensions/IA_Save",
+        "Selected_save": "none",
+        "Best_save": "none"
+    },
+    "Modeliser": {
+        "Paths": [
+            "Modelisation/modeliseur_v1.py"
+        ],
+        "Save_path": "Modelisation/Generated",
+        "Selected_modeliser": 0,
+        "Template_refs": "Modelisation/Templates/ids.json"
+    }
+}
